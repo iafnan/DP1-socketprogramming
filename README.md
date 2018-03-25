@@ -1,22 +1,27 @@
 # DP1-socketprogramming
-Various TCP, UDP server and client implementations using network sockets on Unix sock API
+UNIX Socket API implementations to create various TCP, UDP servers and clients and related utilities.
 
 ## Prerequisites
 
-
+### Knowledge of
+- IP networks and Network programming
+- TCP/UDP protocols over IP
+- 
 ### Platform
 ```
-
+- C compiler (GNU)
+- UNIX Socket API
 ```
 
 ## Where?
 Politecnico di Torino
 
 ## Why?
-University project for Distributed programming 1 course
+University project for Distributed programming 2 course
 
 ## When?
-Winter 2017
+Fall 2017
 
 ## Status?
-Ongoing
+Patially disclosed (full project available upon request)
+
