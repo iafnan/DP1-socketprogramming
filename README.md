@@ -1,16 +1,20 @@
 # DP1-socketprogramming
-UNIX Socket API implementations to create various TCP, UDP servers and clients and related utilities.
+UNIX Socket API implementations to create various TCP, UDP servers and clients with concurrency resolution and related utilities.
 
 ## Prerequisites
 
 ### Knowledge of
 - IP networks and Network programming
 - TCP/UDP protocols over IP
-- 
+- Concurrency management by threads and signals
+- XDR encoding
 ### Platform
 ```
 - C compiler (GNU)
 - UNIX Socket API
+- valgrind
+- WireShark
+- netstat
 ```
 
 ## Where?
@@ -20,8 +24,8 @@ Politecnico di Torino
 University project for Distributed programming 2 course
 
 ## When?
-Fall 2017
+Winter 2017
 
 ## Status?
-Patially disclosed (full project available upon request)
+Not disclosed (full programs available upon request)
 
